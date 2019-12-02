@@ -1,5 +1,7 @@
 # Baobab issue repo with es2015 babel preset
 
+**NOTE:** As of baobab 2.5.3, this issue has been resolved!
+
 When using baobab together with [gulp](https://www.npmjs.com/package/gulp) and [browserify](https://www.npmjs.com/package/browserify),
 it appears that browserify wants the end-user to install the [es2015 preset](https://www.npmjs.com/package/babel-preset-es2015).
 
